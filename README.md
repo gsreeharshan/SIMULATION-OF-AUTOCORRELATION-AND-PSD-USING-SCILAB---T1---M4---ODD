@@ -60,4 +60,6 @@ Visualize the autocorrelation function and PSD.
 ## OUTPUT
 <img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/c5e5c608-4f11-4db7-b748-1ec78de8ae70" />
 
-RESULT: Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
+RESULT:
+<img width="1280" height="497" alt="WhatsApp Image 2026-09-26 at 11 58 17 AM" src="https://github.com/user-attachments/assets/5f42d0cf-9b35-4814-95c0-4d7d04c37a31" />
+Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
